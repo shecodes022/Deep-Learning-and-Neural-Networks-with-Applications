@@ -1,4 +1,4 @@
-# Deep Learning and Neural Networks with Applications 🧠
+# Deep Learning and Neural Networks with Applications📊
 
 This repository contains my learning materials and lab exercises for Deep Learning and Neural Networks with Applications.
 
