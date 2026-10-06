@@ -1,6 +1,6 @@
 # Deep Learning and Neural Networks with Applications 🧠
 
-This repository contains my learning materials and lab exercises for Deep Learning and Neural Networks with Applications (ECS7037P).
+This repository contains my learning materials and lab exercises for Deep Learning and Neural Networks with Applications.
 
 
 ## About Deep Learning and Neural Networks with Applications ❓
@@ -139,7 +139,7 @@ For practical implementation, Python and PyTorch are used in Jupyter notebooks o
 
 ```
 .
-├── README.md
+├──.gitattributes
 ├── W1 - Lab1
 │   └── Lab_1.ipynb
 ├── W2 - Lab2
@@ -158,6 +158,7 @@ For practical implementation, Python and PyTorch are used in Jupyter notebooks o
 │   └── Lab_8.ipynb
 └── W9 - Lab9
     └── Lab_9.ipynb
+├── README.md
 ```
 
 
